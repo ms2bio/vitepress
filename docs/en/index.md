@@ -5,8 +5,8 @@ title: VitePress
 titleTemplate: Vite & Vue Powered Static Site Generator
 
 hero:
-  name: VitePress
-  text: Vite & Vue Powered Static Site Generator
+  name: MS2 Bio
+  text: Accelerating Tech Bio Adoption
   tagline: Test
   actions:
     - theme: brand

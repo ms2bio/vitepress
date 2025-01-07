@@ -7,7 +7,7 @@ titleTemplate: Vite & Vue Powered Static Site Generator
 hero:
   name: VitePress
   text: Vite & Vue Powered Static Site Generator
-  tagline: Markdown to Beautiful Docs in Minutes
+  tagline: Test
   actions:
     - theme: brand
       text: What is VitePress?
